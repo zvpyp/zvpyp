@@ -1,4 +1,4 @@
-A kind of student, I guess. Some day I will do something useful, I hope.
+On my journey of doing something useful B)
 
 <!---
 zvpyp/zvpyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
