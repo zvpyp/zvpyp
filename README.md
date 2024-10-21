@@ -1,4 +1,8 @@
-On my journey of doing something useful B)
+```
+if err != nil {
+  return nil, err;
+}
+```
 
 <!---
 zvpyp/zvpyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
